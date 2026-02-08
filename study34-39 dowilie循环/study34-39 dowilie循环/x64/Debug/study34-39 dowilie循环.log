@@ -1,0 +1,3 @@
+﻿  源.c
+D:\VisualStudio\code\beginner-of-c-language\study34-39 dowilie循环\study34-39 dowilie循环\源.c(188,23): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  study34-39 dowilie循环.vcxproj -> D:\VisualStudio\code\beginner-of-c-language\study34-39 dowilie循环\x64\Debug\study34-39 dowilie循环.exe
