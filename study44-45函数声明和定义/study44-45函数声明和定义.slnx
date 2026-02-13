@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="study44-45函数声明和定义/study44-45函数声明和定义.vcxproj" />
+</Solution>

@@ -1,0 +1,4 @@
+﻿  源.c
+D:\VisualStudio\code\beginner-of-c-language\study46-48 函数递归\study46-48 函数递归\源.c(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\VisualStudio\code\beginner-of-c-language\study46-48 函数递归\study46-48 函数递归\源.c(131,1): warning C4715: “Fin”: 不是所有的控件路径都返回值
+  study46-48 函数递归.vcxproj -> D:\VisualStudio\code\beginner-of-c-language\study46-48 函数递归\x64\Debug\study46-48 函数递归.exe
