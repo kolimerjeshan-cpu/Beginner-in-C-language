@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="study49-53作业讲解/study49-53作业讲解.vcxproj" />
+</Solution>
