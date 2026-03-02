@@ -1,0 +1,4 @@
+﻿  main.c
+D:\VisualStudio\code\beginner-of-c-language\study62作业讲解\study62作业讲解\main.c(32,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\VisualStudio\code\beginner-of-c-language\study62作业讲解\study62作业讲解\main.c(120,1): warning C4715: “Pow”: 不是所有的控件路径都返回值
+  study62作业讲解.vcxproj -> D:\VisualStudio\code\beginner-of-c-language\study62作业讲解\x64\Debug\study62作业讲解.exe
