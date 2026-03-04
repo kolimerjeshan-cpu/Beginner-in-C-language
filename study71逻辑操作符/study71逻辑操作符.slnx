@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="study71逻辑操作符/study71逻辑操作符.vcxproj" />
+</Solution>
