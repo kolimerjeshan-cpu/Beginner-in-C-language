@@ -1,0 +1,3 @@
+﻿  mian.c
+D:\C语言\code\C语言\beginner-of-c-language\study77指针和指针类型\mian.c(17,8): warning C4133: “初始化”: 从“int *”到“char *”的类型不兼容
+  study77指针和指针类型.vcxproj -> D:\C语言\code\C语言\beginner-of-c-language\study77指针和指针类型\x64\Debug\study77指针和指针类型.exe
